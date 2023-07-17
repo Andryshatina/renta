@@ -10,13 +10,22 @@
   },
   "dependencies": {
     "@next/font": "13.3.0",
+    "cookie": "^0.5.0",
+    "dayjs": "^1.11.7",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
     "next": "13.3.0",
+    "rc-slider": "^10.1.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-query": "^3.39.3",
+    "react-slideshow-image": "^4.2.1",
+    "react-tailwindcss-datepicker": "^1.6.0",
+    "react-tailwindcss-select": "^1.8.5"
   },
   "devDependencies": {
+    "@types/node": "18.16.1",
+    "@types/react": "18.2.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.1"
